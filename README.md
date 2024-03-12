@@ -1,4 +1,4 @@
 - 工作联系：wx306690410 备注来意
-- 最近研究process koa2图结构
+- 技能树 Electron node-ffi wasm rust 
 - 研究经过C++编译后的js代码在游览器音视频领域的表现
-- 喜欢node
+- 业余钻研node Egg框架二开
